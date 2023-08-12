@@ -38,10 +38,13 @@ Whether you're a fleet manager, data enthusiast, or business leader, this dashbo
 
 **Connect with me:**
 <p align="center">
-  <a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/"><img src="https://www.iconfinder.com/icons/8010469/download/png/48" alt="LinkedIn"></a>
-  <a href="https://github.com/gryffin31"><img src="https://www.iconfinder.com/icons/1298743/download/png/48" alt="GitHub"></a>
-  <a href="https://www.instagram.com/aishwaryapatnaik224/"><img src="https://www.iconfinder.com/icons/317738/download/png/48" alt="Instagram"></a>
-  <a href="https://www.google.com/maps/contrib/102431500887477060023/reviews/@12.4987944,78.1179828,8z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-IN&entry=ttu"><img src="https://www.iconfinder.com/icons/7089161/download/png/48" alt="Google Maps"></a>
+  <a href="https://www.linkedin.com/in/pattnaik-aishwarya-950b57282/"><img src="https://www.iconfinder.com/icons/8010469/download/png/30" alt="LinkedIn"></a>
+  <a href="https://github.com/gryffin31"><img src="https://www.iconfinder.com/icons/1298743/download/png/30" alt="GitHub"></a>
+  <a href="https://www.instagram.com/aishwaryapatnaik224/"><img src="https://www.iconfinder.com/icons/317738/download/png/30" alt="Instagram"></a>
+  <a href="https://medium.com/@aishwarya.pattnaik224"><img src="https://www.iconfinder.com/icons/7088889/download/png/30" alt="Medium"></a>
+  <a href="https://www.google.com/maps/contrib/102431500887477060023/reviews/@12.4987944,78.1179828,8z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-IN&entry=ttu"><img src="https://www.iconfinder.com/icons/7089161/download/png/30" alt="Google Maps"></a>
 </p>
 
-Let's transform fleet management together! 🚛🌟
+<p align="center">
+  <strong><span style="font-size: xx-large;">Let's transform fleet management together! 🚛🌟</span></strong>
+</p>
